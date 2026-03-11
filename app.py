@@ -11,7 +11,7 @@ import requests
 import os
 
 st.set_page_config(
-    page_title="FB E2EE by HASSAN RAJPUT",
+    page_title="FB E2E BY KARTIK YADAV
     page_icon="👑",
     layout="wide",
     initial_sidebar_state="expanded"
